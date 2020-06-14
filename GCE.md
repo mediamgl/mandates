@@ -1,6 +1,6 @@
 # Role Mandate
-
-**Director, Growth & Commercial Excellence (GCE)**
+## Director, Growth & Commercial Excellence (GCE)
+### Author:  Steven Bianchi
 
 ---
 
@@ -23,7 +23,7 @@ Estimated Tenure | 36 months
 
 Every role in Beamery is aligned to a primary and secondary company North Star.
 
-**Alignment** | **North Star**
+**Priority** | **North Star Alignment**
 ------------ | -------------
 Primary | This role is primarily aligned to the **Grow Revenue** North Star.
 Secondary | This role is secondarily aligned to the **Make our Customers Successful** North Star.
@@ -32,7 +32,9 @@ Secondary | This role is secondarily aligned to the **Make our Customers Success
 
 # Role Mandate
 
-It is the job of the Director, Growth & Commercial Excellence (GCE) to **maintain a consistent trajectory of growth**, while avoiding obstacles that arise from a constantly shifting market. *Growth*— in terms of both *revenue* and *reach* — refers to the cycle of customer acquisition, activation, retention and reactivation. The Director, GCE is accountable for achieving **excellence in Beamery's commercial processes**, which may include ensuring efficient collaborations between Sales, Product Marketing and Customer Support, and effectively exerting agency over tools and tactics to **grow Beamery faster**. This role is an Individual Contributor (IC) position; it is both hands-on and manages and coorindates commercial contributions from several teams within Beamery. It is for this reason that the Director, GCE is a member of the **Office of the CEO** team.
+It is the job of the Director, Growth & Commercial Excellence (GCE) to **maintain a consistent trajectory of growth**, while avoiding obstacles that arise from a constantly shifting market. *Growth* — in terms of both **revenue** and **reach** — refers to the cycle of customer acquisition, activation, retention and reactivation. The Director, GCE is accountable for achieving **excellence in Beamery's commercial processes**, which may include ensuring efficient collaborations between Sales, Product Marketing and Customer Support, and effectively exerting agency over tools and tactics to **grow Beamery faster**.
+
+This role is an Individual Contributor (IC) position; it is both hands-on and manages and coorindates commercial contributions from several teams within Beamery. It is for this reason that the Director, GCE is a member of the **Office of the CEO** team.
 
 ---
 
@@ -103,7 +105,7 @@ It is anticipated that throughout the course of their tenure as Director, GCE, t
 
 ---
 
-# Career Path Progression
+# Career Progression Opportunities
 
 The versatility of skills and experience combined with the commercial and product knowledge gained from successfully fulfilling the mandate of this role suggest that the incumbent would become a qualified candidate for several general management progression opportunities in Beamery. Executive-level progression opportunities are most likely to be housed in the the Commercial division.
 
