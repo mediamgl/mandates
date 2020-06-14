@@ -72,16 +72,16 @@ By virtue of filling this role, the incumbent will have opportunities to further
 It is anticipated that throughout the course of their tenure as Director, GCE, the incumbent will be recognised as having advanced across 4 primary domains:  Commercial Excellence; Operations Management; General Management; and, Leadership.
 
 ## Commercial Excellence
-- Build cohesive go-to-market infrastructure to support company growth and pivots by facilitating systems, workflows and processes, and documentation for operational teams that work closely together — Sales, Marketing and Customer Success.
-- Build and maintain controls via monitoring, source controls, and automated processes to enable sufficient controls, without the inefficiencies of complete separation of duties via organisational hierarchy.
-- excellent commercial skills and a track record of success
-- Build the A&M brand and profile by successfully winning and delivering client assignments and managing project teams to exceed client expectations.
-- Work as a Commercial Director is also an invaluable opportunity to expand practical skills, as it forces new directors to challenge themselves with tasks and responsibilities they have never before tackled.
-- Support the development of the Growth & Commercial Excellence team across Europe by engaging with prospective clients and developing enduring senior level client relationships
-- Contribute to thought leadership and the development of the practice by raising the profile and reputation of GCE with clients and internally across other teams.
-- Be an influential leader on commercial excellence topics such as sales operations, pricing and marketing.
-- Identify and manage key commercial excellence partnerships.
-- While the position demands careful attention to the organisation’s present activities in the marketplace, the more significant portion of the job involves decision-making based on trends and expectations for the future.
+1. Demonstrate an intimate knowldge of the basic go-to-market infrastructure underpinning company growth and demonstrate mastery over commercial systems, workflows and processes.
+2. Be recognised for bulding and maintaining sufficient controls through influence and indirect leadership, without the inefficiencies of complete separation of duties via organisational hierarchy.
+3. Attain excellent commercial skills and a track record of success.
+4. Build the Beamery brand and profile by successfully winning and delivering client assignments and managing project teams to exceed client expectations.
+5. Become adept at dynamic problem solving as this role is an invaluable opportunity to expand practical skills, as it forces new directors to challenge themselves with tasks and responsibilities they have never before tackled.
+6. Support the development of the Growth & Commercial Excellence team across Europe by engaging with prospective clients and developing enduring senior level client relationships
+7. Become a trusted ally by supporting and contributing the Chief Revenue Offer's thought leadership and the development of the Commercial division by raising the profile and reputation of Beamery with customers and internally across other teams.
+8. Become an influential leader on commercial excellence topics such as sales operations, pricing and product marketing.
+9. Be trusted to identify and manage key commercial excellence partnerships.
+10. While the position demands careful attention to Beamery’s present activities in the marketplace, the more significant portion of the job involves decision-making based on trends and expectations for the future.
 
 ## Operations Management
 1. Become the linchpin who commercially-aligns strategies, plans and execution activities of senior and executive management by ensuring that they are adequately aware of and appreciate vital information by continuously monitoring and sharing performance results and analysis of key growth drivers for revenue and reach.
