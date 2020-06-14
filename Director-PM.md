@@ -30,9 +30,7 @@ Secondary | This role is secondarily aligned to the **Build a Winning Team** Nor
 
 ---
 
-‘’’
-Rework from here onwards
-‘’’
+> Rework from here onwards
 
 ---
 
