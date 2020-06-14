@@ -6,16 +6,16 @@
 
 **Element** | **Value**
 ------------ | -------------
-Function | This needs to be **Sales**, CS or Marketing as one of these domains will be responsible for individual development and growth. I am thinking Sales because the CRO will likely be Sales.
+Function | This needs to be **Sales**, CS or Marketing as one of these domains will be responsible for individual development and growth. <br> I am thinking Sales because the CRO will likely be Sales.
 Division | This role is aligned to the **Commercial** division.
 Department | Growth & Commercial Excellence (GCE)
 Team | This role is a member of the **Office of the CEO** team.
-Reporting Line | This role reports to **Chief Revenue Officer (CRO)**. *TBC:  In the interim period, until such time as a CRO is appointed, this role reports to **VP Sales, EMEA** or **Chief Executive Officer**.*
+Reporting Line | This role reports to **Chief Revenue Officer (CRO)**. <br> *TBC:  In the interim period, until such time as a CRO is appointed, this role reports to **VP Sales, EMEA** or **Chief Executive Officer**.*
 Level | TBC:  Individual Contributor; non-executive
 Grade | Director (non-executive)
 Job Class | Individual Contributor
 Job Title | Director, Growth & Commercial Excellence (GCE)
-Tenure-to-Fulfilment (estimate) | 36 months
+Estimated Tenure | 36 months
 
 ---
 
@@ -27,12 +27,6 @@ Every role in Beamery is aligned to a primary and secondary company North Star.
 ------------ | -------------
 Primary | This role is primarily aligned to the **Grow Revenue** North Star.
 Secondary | This role is secondarily aligned to the **Make our Customers Successful** North Star.
-
----
-
-# Career Path Progression
-
-The versatility of skills and experience combined with the commercial and product knowledge gained from successfully fulfilling the mandate of this role suggest that the incumbent would become a qualified candidate for several general management progression opportunities in Beamery. Executive-level progression opportunities are most likely to be housed in the the Commercial division.
 
 ---
 
@@ -104,5 +98,14 @@ It is anticipated that throughout the course of their tenure as Director, GCE, t
 
 ## Leadership
 1. Attain *industry authority* status and make regular contributions of articles and content to industry websites, interviews, podcasts, etc.
-- This is important because having a presence on industry sites and obtaining status as an authority demonstrates that the incumbent understands how important thought leadership is to Beamery's primary markets and the bigger role that authority is playing in organisation digitisation strategies.
+	- This is important because having a presence on industry sites and obtaining status as an authority demonstrates that the incumbent understands how important thought leadership is to Beamery's primary markets and the bigger role that authority is playing in organisation digitisation strategies.
 2. Gain broad recognition, internally and externally, as driven by values and integrity, and one who talks straight, builds confidence and leads by example.
+
+---
+
+# Career Path Progression
+
+The versatility of skills and experience combined with the commercial and product knowledge gained from successfully fulfilling the mandate of this role suggest that the incumbent would become a qualified candidate for several general management progression opportunities in Beamery. Executive-level progression opportunities are most likely to be housed in the the Commercial division.
+
+---
+
