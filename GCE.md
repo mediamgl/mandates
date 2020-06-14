@@ -1,6 +1,6 @@
 # Role Mandate
 ## Director, Growth & Commercial Excellence (GCE)
-### Author:  Steven Bianchi
+### Author:  @mediamgl
 
 ---
 
