@@ -1,6 +1,7 @@
 # Role Mandate
-## Director, Growth & Commercial Excellence (GCE)
+## People Partner
 ### Author:  @mediamgl
+### Contributors: @RachelSkelton
 
 ---
 
@@ -25,7 +26,7 @@ Every role in Beamery is aligned to a primary and secondary company North Star.
 
 **Priority** | **North Star Alignment**
 ------------ | -------------
-Primary | This role is primarily aligned to the **Grow Revenue** North Star.
+Primary | This role is primarily aligned to the **Build a Winning Team** North Star.
 Secondary | This role is secondarily aligned to the **Make our Customers Successful** North Star.
 
 ---
