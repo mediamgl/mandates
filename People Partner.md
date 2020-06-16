@@ -7,16 +7,16 @@
 
 **Element** | **Value**
 ------------ | -------------
-Function | This needs to be **Sales**, CS or Marketing as one of these domains will be responsible for individual development and growth. <br> I am thinking Sales because the CRO will likely be Sales.
-Division | This role is aligned to the **Commercial** division.
-Department | Growth & Commercial Excellence (GCE)
-Team | This role is a member of the **Office of the CEO** team.
-Reporting Line | This role reports to **Chief Revenue Officer (CRO)**. <br> *TBC:  In the interim period, until such time as a CRO is appointed, this role reports to **VP Sales, EMEA** or **Chief Executive Officer**.*
+Function | **People**
+Division | This role is aligned to the **Operations** division.
+Department | People
+Team | This role is a member of the **People** team.
+Reporting Line | This role reports to **Chief People Officer (CPO)**. 
 Level | TBC:  Individual Contributor; non-executive
-Grade | Director (non-executive)
+Grade | TBC
 Job Class | Individual Contributor
-Job Title | Director, Growth & Commercial Excellence (GCE)
-Estimated Tenure | 36 months
+Job Title | People Partner
+Estimated Tenure | 24 months
 
 ---
 
