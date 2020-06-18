@@ -27,50 +27,39 @@ Every role in Beamery is aligned to a primary and secondary company North Star.
 **Priority** | **North Star Alignment**
 ------------ | -------------
 Primary | This role is primarily aligned to the **Build a Winning Team** North Star.
-Secondary | This role is secondarily aligned to the **Make our Customers Successful** North Star.
+Secondary | This role is secondarily aligned to the **Build a Category Defining Product** North Star.
 
 ---
 
 # Role Mandate
 
-It is the job of the Director, Growth & Commercial Excellence (GCE) to **maintain a consistent trajectory of growth**, while avoiding obstacles that arise from a constantly shifting market. *Growth* — in terms of both **revenue** and **reach** — refers to the cycle of customer acquisition, activation, retention and reactivation. The Director, GCE is accountable for achieving **excellence in Beamery's commercial processes**, which may include ensuring efficient collaborations between Sales, Product Marketing and Customer Support, and effectively exerting agency over tools and tactics to **grow Beamery faster**.
+It is the job of the People Partner (PP) to **partner with senior and line managers** for strategy execution and become an agent of continuous transformation, shaping processes and a culture that together improve an organization’s capacity for growth. The PP will become a champion for employees, vigorously representing their concerns to senior management and at the same time working to increase employee contribution; that is, employees’ commitment to the organization and their ability to deliver results. The PP is accountable for achieving **excellence in Beamery's operations**, an expert in the way work is organized and executed, delivering administrative efficiency to ensure that costs are reduced while quality is maintained to **grow Beamery faster**.
 
-This role is an Individual Contributor (IC) position; it is both hands-on and manages and coorindates commercial contributions from several teams within Beamery. It is for this reason that the Director, GCE is a member of the **Office of the CEO** team.
+This role is an Individual Contributor (IC) position, and the role of the PP is to contribute to business conversations and organisational growth. 
 
 ---
 
 # Role Success Criteria
 
-## 1. Prospects, Customers and Partners
-- Act to acquire new customers and manage client relationships (new and existing) and advise senior and executive management about new markets to explore.
-- Conduct market research and analysis to create detailed business plans on commercial opportunities (expansion, business development etc.)
-- Build and maintain profitable partnerships with key stakeholders.
-- Establish personal credibility in the Human Resources and Talent market industries.
-- Understand and become and expert in the requirements of existing customers to ensure their needs are being met.
+## 1. TBC (HRIS?)
+- shared services with an integrated information system and ‘self-service’ frontend
+- a simplified HR policyframework
+- stronger alignment between HR and business units
+- an expectation of line managers to deliver results through their people as the ‘front line’ of HR.
 
-## 2. Commercial Operations Management
-- Ensure that all key growth drivers are net promotors (not detractors) of sustainable revenue and reach growth.
-	- Monitor performance of commercial activities through analysis of key growth drivers for revenue and reach.
-	- Prepare and publish reports for senior and executive management.
-- Maintain accurate and up-to-date product and customer data and provide analysis services for stakeholders in other functions.
-	- The result of that service may be a dashboard, which can become a new product that is owned and maintained by the Director, GCE.
-	- Use the data to create customer personas, improve revenues and minimise costs and expenditures where possible.
-	- Review results, influence course-corrections or tweak campaigns and funnels as necessary to optimise for future results.
-- Assist in setting Commercial division NOMMS and then set about making them happen.
-- Assist in setting Commercial division financial targets and budget development and monitoring activities.
-- Manage and track license allocation, admins, and contracts for the Commercial division tech stack, with the support of IT Services.
+## 2. TBC (Growth @)
+- 
 
-## 3. Commercial Excellence
-- Build cohesive go-to-market infrastructure to support company growth and pivots by facilitating systems, workflows and processes, and documentation for operational teams that work closely together — Sales, Marketing and Customer Success.
-- Build and maintain controls via monitoring, source controls, and automated processes to enable sufficient controls, without the inefficiencies of complete separation of duties via organisational hierarchy.
+## 3. TBC (Management @)
+- 
 	
 ---
 
 # Professional Development Outcomes
 
-By virtue of filling this role, the incumbent will have opportunities to further develop their professional competencies and and position themselves as a value and highly regarded individual contributor in Beamery and in the broader talent vendor market.
+By virtue of filling this role, the incumbent will have opportunities to further develop their professional competencies and and position themselves as a value and highly regarded individual contributor in Beamery and the wider HR industry.
 
-It is anticipated that throughout the course of their tenure as Director, GCE, the incumbent will be recognised as having advanced across 4 primary domains:  Commercial Excellence; Operations Management; General Management; and, Leadership.
+It is anticipated that throughout the course of their tenure as PP, the incumbent will be recognised as having advanced across 4 primary domains:  1,2,3,4.
 
 ## Commercial Excellence
 1. Demonstrate an intimate knowldge of the basic go-to-market infrastructure underpinning company growth and demonstrate mastery over commercial systems, workflows and processes.
