@@ -44,20 +44,19 @@ This role is an Individual Contributor (IC) position; it is both hands-on and ma
 - Act to acquire new customers and manage client relationships (new and existing) and advise senior and executive management about new markets to explore.
 - Conduct market research and analysis to create detailed business plans on commercial opportunities (expansion, business development etc.)
 - Build and maintain profitable partnerships with key stakeholders.
-- Establish personal credibility in the Human Resources and Talent market industries.
 - Understand and become and expert in the requirements of existing customers to ensure their needs are being met.
 
 ## 2. Commercial Operations Management
 - Ensure that all key growth drivers are net promotors (not detractors) of sustainable revenue and reach growth.
 	- Monitor performance of commercial activities through analysis of key growth drivers for revenue and reach.
 	- Prepare and publish reports for senior and executive management.
-- Maintain accurate and up-to-date product and customer data and provide analysis services for stakeholders in other functions.
-	- The result of that service may be a dashboard, which can become a new product that is owned and maintained by the Director, GCE.
+- Collaborate with functional owners to maintain accurate and up-to-date product and customer data and provide analysis services as needed.
 	- Use the data to create customer personas, improve revenues and minimise costs and expenditures where possible.
 	- Review results, influence course-corrections or tweak campaigns and funnels as necessary to optimise for future results.
+	- The result of that service may be a dashboard, which can become a new product that is owned and maintained by the Director, GCE.
 - Assist in setting Commercial division NOMMS and then set about making them happen.
 - Assist in setting Commercial division financial targets and budget development and monitoring activities.
-- Manage and track license allocation, admins, and contracts for the Commercial division tech stack, with the support of IT Services.
+- Assess and assist with license allocation, admins, and contracts set up for the Commercial division tech stack, with the support of IT Services and the functional owner.
 
 ## 3. Commercial Excellence
 - Build cohesive go-to-market infrastructure to support company growth and pivots by facilitating systems, workflows and processes, and documentation for operational teams that work closely together — Sales, Marketing and Customer Success.
